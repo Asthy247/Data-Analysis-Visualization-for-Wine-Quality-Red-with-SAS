@@ -1,5 +1,3 @@
-# Portfolio-SAS
-
 # Data Analysis and Data Visualization for Wine Quality Red with SAS
 
 This document outlines the data visualization techniques used to explore the Wine Quality dataset from kaggle website,
